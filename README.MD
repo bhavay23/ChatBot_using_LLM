@@ -1,9 +1,10 @@
-##CHATBOT
- An interactive and intelligent chatbot using the Language Model (LLM) capabilities. This chatbot is designed to understand and respond to user queries, providing a natural language interface for various applications.
+#CHATBOT
+An interactive and intelligent chatbot using the Language Model (LLM) capabilities. This chatbot is designed to understand and respond to user queries, providing a natural language interface for various applications.
 
 ![](langchain.png)
 ## Features
--Leverages the power of OpenAI's advanced language model to understand and generate human-like responses.
+
+- Leverages the power of OpenAI's advanced language model to understand and generate human-like responses.
 - Receives user input through a Streamlit web application, creating an accessible and intuitive interface.
 - Deployed on Streamlit for a seamless and user-friendly web-based experience.
 - Allows for a personalized and context-aware interaction with users.
