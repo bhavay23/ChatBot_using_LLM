@@ -1,4 +1,4 @@
-#CHATBOT
+# CHATBOT
 An interactive and intelligent chatbot using the Language Model (LLM) capabilities. This chatbot is designed to understand and respond to user queries, providing a natural language interface for various applications.
 
 ![](langchain.png)
